@@ -1,0 +1,23 @@
+{
+  "name": "react-native-app",
+  "version": "1.0.0",
+  "description": "a react native mobile app",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Langmack/react-native-app.git"
+  },
+  "keywords": [
+    "native",
+    "react"
+  ],
+  "author": "Michael Langmack",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Langmack/react-native-app/issues"
+  },
+  "homepage": "https://github.com/Langmack/react-native-app#readme"
+}
